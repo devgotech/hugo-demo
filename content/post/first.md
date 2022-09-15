@@ -11,7 +11,7 @@ author: James Anyalewechi
 
 # Hugo Demo taught me to use markdown   
 
-This is a basic syntax to show what I have learned so far, dont go anywhere, I would be with you shortly.
+This is a basic syntax to show what I have learned so far, don't go anywhere, I would be with you shortly.
 
 
         1.   Here is something
