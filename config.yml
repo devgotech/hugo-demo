@@ -19,11 +19,19 @@ menu:
             name: Categories
             url: /categories/
             weight: 10
+        -   identifier: tags
+            name: Tags
+            url: /tags/
         -   identifier: archives
             name: Archives
             url: /archives/
             weight: 20
-        -   identifier: tags
-            name: Tags
-            url: /tags/
+        -   identifier: post
+            name: Post
+            url: /post/
             weight: 20
+        -   identifier: search
+            name: Search
+            url: /search/
+            weight: 20
+

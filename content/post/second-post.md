@@ -7,6 +7,8 @@ cover:
     alt: "Second Image"
     caption: "When the going gets better you drop a second image"
 author: James Anyalewechi
+tags: ["technical writing", "articles"]
+categories: ["blog"]
 ---
 
 Due to some factors, there has been some changes made to the site, this is why I took out time to make solid changes to what I bring to the table.  

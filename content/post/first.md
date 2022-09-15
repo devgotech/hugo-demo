@@ -7,6 +7,8 @@ cover:
     alt: "Post background Image"
     caption: "This is hugo demo website"
 author: James Anyalewechi
+tags: ["markdown", "html", "css", "articles"]
+categories: ["web development", "documentation"]
 ---
 
 # Hugo Demo taught me to use markdown   
